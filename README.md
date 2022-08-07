@@ -11,4 +11,6 @@
 The Fourier Transform is a mathematical tool thought up by Joseph Fourier in his efforts to solve the heat equation, however, thesedays It has gone alot further, with uses ranging from music EQ-ing to data processing.
 In data analysis, the data is in a descrete form so the descrete Fourier transform is used:
 
-$$X_k=\sum_{n=0}^{N-1}x_n\cdot e^{-\frac{i2\pi}{N}kn$$
+$$
+X_k=\sum_{n=0}^{N-1}x_n\cdot e^{-\frac{i2\pi}{N}kn}
+$$
